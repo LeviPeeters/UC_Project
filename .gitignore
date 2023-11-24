@@ -1,6 +1,8 @@
 # Data files
 data/
 WijkBuurtkaart_2020_v3/
+cache/
+*.pdf
 
 
 # Byte-compiled / optimized / DLL files
